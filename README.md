@@ -79,5 +79,5 @@ Use **prepared statements** and **secure password hashing** (`password_hash()` /
 
 ### Discovered By
 
-Mo Asim
-Github: @Asim-Qazi
+* Mo Asim
+* Github: @Asim-Qazi
