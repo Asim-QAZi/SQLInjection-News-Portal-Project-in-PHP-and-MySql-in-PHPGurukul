@@ -79,5 +79,7 @@ Use **prepared statements** and **secure password hashing** (`password_hash()` /
 
 ### Discovered By
 
-* Mo Asim
+* **Mo Asim** also known as **Asim Qazi**
 * Github: @Asim-Qazi
+* Linkedin: [Asim Qazi](https://www.linkedin.com/in/masimqazi)
+* Student | Security Researcher
